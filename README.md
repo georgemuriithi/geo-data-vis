@@ -1,1 +1,1 @@
-# geo-data-viz
+# Geographical Data Visualization
