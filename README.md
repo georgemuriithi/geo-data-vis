@@ -8,3 +8,7 @@
 </a>
 
 Interactive visualization of geographical data through choropleth maps, geographical maps and real maps.
+
+- Worldwide choropleth map showing percentage of <a href="https://ourworldindata.org/">population using the Internet</a> from 1960 to 2017
+- Geographical map showing <a href="http://users.econ.umn.edu/~holmes/data/WalMart/store_openings.html">Walmart store openings</a> in the USA from 1962 to 2006 
+- Visualizing and clustering and individual's mobility data (csv file can be accessed from the *data* folder)
