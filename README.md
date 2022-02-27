@@ -1,4 +1,4 @@
-# Geographical Data Visualization
+# <a href="https://github.com/georgemuriithi/geo-data-vis/blob/main/Geographical-Data-Visualization.ipynb">Geographical Data Visualization</a>
 
 <a href="https://github.com/georgemuriithi/geo-data-vis/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/geo-data-vis.svg?color=blue&cachedrop">
@@ -7,4 +7,4 @@
     <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-Interactive visualization of geographical data through choropleth maps and real maps.
+Interactive visualization of geographical data through choropleth maps, geographical maps and real maps.
